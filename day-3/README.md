@@ -1,7 +1,3 @@
-# day-3
+# Solution for day 3
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+This project contains Clojure code I wrote to solve http://adventofcode.com/2016/day/3. :)
